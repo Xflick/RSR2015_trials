@@ -1,6 +1,6 @@
 # RSR2015_trials
 
-This repository includes the trials used in the paper **Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings**. 
+This repository includes the trials used in the paper [**Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings**](https://ieeexplore.ieee.org/document/9054333). 
 
 ## Folder Structure
 
@@ -23,10 +23,12 @@ This repository includes the trials used in the paper **Text Adaptation for Spea
 
 ## Citation
 
-    @inproceedings{yang2020text,  
-        title={Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings},  
-        author={Yexin, Yang and Shuai, Wang and Xun, Gong and Yanmin, Qian and Kai, Yu},  
-        booktitle={2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) },  
-        pages={6454--6458},  
-        year={2020}  
+    @INPROCEEDINGS{9054333,
+        author={Y. {Yang} and S. {Wang} and X. {Gong} and Y. {Qian} and K. {Yu}},
+        booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+        title={Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings},
+        year={2020},
+        volume={},
+        number={},
+        pages={6454-6458},
     }
